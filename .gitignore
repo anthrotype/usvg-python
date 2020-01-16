@@ -22,3 +22,4 @@ extensions/stamps/
 pip-wheel-metadata
 valgrind-python.supp
 src/usvg/_version.py
+src/usvg/usvg
