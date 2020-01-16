@@ -129,6 +129,7 @@ setup(
     install_requires=["importlib_resources; python_version < '3.7'"],
     setup_requires=["setuptools_scm"],
     extras_require={"testing": ["pytest"]},
+    python_requires=">=3.6",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Environment :: Console",
